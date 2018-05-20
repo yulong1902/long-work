@@ -1,0 +1,127 @@
+
+.a02 ul li{
+    background-color: #006986;
+    float: left;
+    list-style: none;
+    display: block;
+    font-weight: bold;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+   
+}
+.a02 ul{
+    margin-top: 0;
+    padding-left: 0;
+    width: 1500px;
+}
+.a01{
+    width: 1500px;
+}
+.t01{
+    width: 500px;
+    float: left;
+    height: 500px;
+}
+.t02{
+    font-size: 28px;
+    border-bottom: 3px;
+    border-bottom-color:black;
+    background: url(./images/xinwen.jpg) no-repeat 5px;
+    padding-left: 50px;
+    margin-top: 0;
+    border-bottom: 2px solid #006986;
+}
+.t02 span{
+    color: #006986;
+    font-size: 25px;
+}
+.t03{
+    height: 500px;
+}
+.z01{
+    width: 800px;
+    height: 500px;
+    margin-left: 500px;
+    margin-top: 0;
+}
+.z02{
+    font-size: 28px;
+    border-bottom: 3px;
+    border-bottom-color:black;
+    background: url(./images/laba.jpg) no-repeat 5px;
+    padding-left: 50px;
+    border-bottom: 2px solid #006986;
+}
+.z02 span{
+    color: #006986;
+    font-size: 25px;
+}
+.z03{
+    
+   
+}
+.z04{
+    float: left;
+    width: 500px;
+    margin-left: 410px;
+    margin-right: 0;
+
+}
+.z05{
+    margin: 0;
+    height: 0;  
+    float: left;
+}
+.z06{
+    font-size: 18px;
+    text-align: center;
+}
+.x01{
+    width: 500px;
+    margin-left: 0;
+    float: left;
+}
+.x02{
+    font-size: 28px;
+    border-bottom: 3px;
+    border-bottom-color:black;
+    background: url(./images/shu.jpg) no-repeat 5px;
+    padding-left: 50px;
+    margin-top: 0;
+    border-bottom: 2px solid #006986;
+
+}
+.x02 span{
+    color: #006986;
+    font-size: 25px;
+}
+.j01{
+    
+    margin-top: 0;
+    margin-left: 500px;
+    width: 500px;
+
+}
+.j02{
+    font-size: 28px;
+    border-bottom: 3px;
+    border-bottom-color:black;
+   
+    padding-left: 50px;
+    margin-top: 0;
+    border-bottom: 2px solid #006986;
+}
+.j02 span{
+    color: #006986;
+    font-size: 25px;
+}
+.l01{
+    margin-left: 1100px;
+}
+.a03{
+    background-color: #006986;
+    text-align: center;
+    width: 1400px;
+}
