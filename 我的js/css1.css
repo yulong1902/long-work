@@ -1,0 +1,26 @@
+body{
+    width: 1500px;
+    text-align: center;
+    margin:0px;
+ 
+}
+.a01 ul li{
+    background-color: aqua;
+    float: left;
+    list-style: none;
+    display: block;
+    font-weight: bold;
+    width: 100px;
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    line-height: 40px;
+}
+a{
+    color: black;
+}
+.a02{
+    padding: 0;
+    background-color: blue;
+    position: absolute;
+}
